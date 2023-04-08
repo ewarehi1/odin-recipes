@@ -1,0 +1,15 @@
+.cheese {
+    background: rgb(255, 187, 0);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.sauce {
+    background-color: red;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.noodle {
+    background-color: wheat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img {
+    width: 500px;
+}
